@@ -5,4 +5,4 @@ All my project in python
 
 Note my projects with Tk at the end require tkinter to be installed
 
--you can install it by "pip install tkinter"
+-you can install it by "pip install tk"
